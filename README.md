@@ -1,6 +1,6 @@
 # Making a bar chart in d3
 
-Today I followed a [Curran Kelleher]('https://www.youtube.com/user/currankelleher')'s tutorial on how to make a bar chart with d3.js
+Today I followed a [Curran Kelleher](https://www.youtube.com/user/currankelleher)'s tutorial on how to make a bar chart with d3.js
 
 ## What I learned?
 
